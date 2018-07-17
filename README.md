@@ -50,3 +50,10 @@ Critérios de Aceitação (Requisitos que definem a funcionalidade e o que ela d
 - A area logada deve permitir o usuário editar a senha ou cancelar a sua conta por meio da area de perfil (Icone Perfil)
 - A area logada deve ter um botão para sair do sistema
 - Deve exibir o nome da creditas com o logo oficial da Creditas
+
+# Dados para teste
+
+Para acessar todas as areas do sistema o candidato deve registrar-se (visualizar a User Story 2 - Tela de Inscrever-se).
+
+### Link do sistema:
+https://rocky-retreat-10076.herokuapp.com/
