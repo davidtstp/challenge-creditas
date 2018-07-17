@@ -10,10 +10,10 @@ O objetivo do teste é o candito demonstrar a capacidade de interpretação, ate
 3) Reporte dos Bugs(Problemas)
   O candidato deve reportar todos os problemas encontrados, o reporte pode ser feito da forma que ficar mais confortavel para o condidato, seja por google docs, txt ou word. De o maximo de informações sobre o bug encontrado.
 
-### User Story
+# User Story
 User Story ou “história de usuário” é uma descrição concisa de uma necessidade do usuário do produto (ou seja, de um “requisito”) sob o ponto de vista desse usuário. A User Story busca descrever essa necessidade de uma forma simples e leve. Leia atentamente as histórias de usuário abaixo.
 
-*User Story 1 - Tela de Login*
+### User Story 1 - Tela de Login
 
 Motivação:
 Criar uma tela de login para que o usuário possa ter a segurança de um sistema com autenticação.
