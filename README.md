@@ -1,5 +1,5 @@
 # Descrição
-O objetivo do teste é o candito demonstrar a capacidade de interpretação, atenção, encontrar problemas e descreve-los de forma clara e objetiva. O teste é composto de de 3 partes, segue a descrição de cada uma:
+O objetivo do teste é o candidato demonstrar a capacidade de interpretação, atenção, encontrar problemas e descreve-los de forma clara e objetiva. O teste é composto de de 3 partes, segue a descrição de cada uma:
 
 1) Leitura e entendimento dos requisitos
   O candidato deve ler as User Storys diposnibilizadas no teste, entender o que elas pendem e validar se tudo que foi solicitado esta implementado no sistema.
