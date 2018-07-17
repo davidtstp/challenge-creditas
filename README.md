@@ -23,10 +23,16 @@ Critérios de Aceitação (Requisitos que definem o que a tela deve conter na fu
 - Deve permitir o usuário recuperar a sua senha (Esqueceu sua senha?)
 - Para usuário que não tem login o sistema deve ter um link para o usuário se registrar no sistema (Inscrever-se)
 - A tela deve exibir o logo da Creditas
-- A tela de ter um botão de Login
+- A tela deve ter um botão de Login
+- A tela deve exibir corretamente mensagens de feedback de possiveis problemas nos formularios
 
-- User Story 1 - Tela de Inscrever-se
+### User Story 2 - Tela de Inscrever-se
 Motivação:
 Criar uma tela que permita o usuário se cadastrar no sistema.
 
 Critérios de Aceitação (Requisitos que definem o que a tela deve conter na funcionalidade):
+- Deve conter um campo de email com verificação se o email é valido
+- Deve conter um campo de senha e o de confirmação da senha, ambos devem permitir senhas com no minimo 6 caracteres
+- Deve conter um link para voltar para a tela de Login
+- A tela deve ter um botão de Inscrever-se
+- A tela deve exibir corretamente mensagens de feedback de possiveis problemas nos formularios
