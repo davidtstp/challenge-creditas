@@ -57,3 +57,6 @@ Para acessar todas as areas do sistema o candidato deve registrar-se (visualizar
 
 ### Link do sistema:
 https://rocky-retreat-10076.herokuapp.com/
+
+### Reporte dos Bugs
+O candidato deve enviar o documento com o resporte dos bugs para os emails david.melo@creditas.com.br e karoline.leite@creditas.com.br, lembrando que fica a critério do candidato a forma que registro dos bugs.
