@@ -1,3 +1,13 @@
+# Dados para teste
+
+Para acessar todas as areas do sistema o candidato deve registrar-se (visualizar a User Story 2 - Tela de Inscrever-se).
+
+### Link do sistema:
+https://rocky-retreat-10076.herokuapp.com/
+
+### Reporte dos Bugs
+O candidato deve enviar o documento com o resporte dos bugs para os emails david.melo@creditas.com.br e karoline.leite@creditas.com.br, lembrando que fica a critério do candidato a forma de registro dos bugs.
+
 # Descrição
 O objetivo do teste é o candidato demonstrar a capacidade de interpretação, atenção, encontrar problemas e descreve-los de forma clara e objetiva. O teste é composto de de 3 partes, segue a descrição de cada uma:
 
@@ -19,7 +29,7 @@ Motivação:
 Criar uma tela de login para que o usuário possa ter a segurança de um sistema com autenticação.
 
 Critérios de Aceitação (Requisitos que definem a funcionalidade e o que ela deve ter.):
-- Deve conter um campo de email e senha, o campo de email deve validar se o email é valido, o campo de senha deve permitir somente senhas acima de 6 caracteres e deve esconder o que for digitado.
+- Deve conter um campo de email e senha.
 - Deve permitir o usuário recuperar a sua senha (Esqueceu sua senha?)
 - Para usuário que não tem login o sistema deve ter um link para o usuário se registrar no sistema (Inscrever-se)
 - A tela deve exibir o logo da Creditas
@@ -33,7 +43,7 @@ Criar uma tela que permita o usuário se cadastrar no sistema.
 
 Critérios de Aceitação (Requisitos que definem a funcionalidade e o que ela deve ter.):
 - Deve conter um campo de email com verificação se o email é valido
-- Deve conter um campo de senha e o de confirmação da senha, ambos devem permitir senhas com no minimo 6 caracteres
+- Deve conter um campo de senha e o de confirmação da senha.
 - Deve conter um link para voltar para a tela de Login
 - A tela deve ter um botão de Inscrever-se
 - A tela deve exibir corretamente mensagens de feedback de possiveis problemas nos formularios
@@ -47,16 +57,5 @@ Critérios de Aceitação (Requisitos que definem a funcionalidade e o que ela d
 - Deve conter uma tabela com as pessoas cadastradas no sistema
 - Deve permitir o usuário clicar na pessoa e ver mais informações
 - Deve exibir na lista nome, documento, bio e idade da pessoa
-- A area logada deve permitir o usuário editar a senha ou cancelar a sua conta por meio da area de perfil (Icone Perfil)
 - A area logada deve ter um botão para sair do sistema
 - Deve exibir o nome da creditas com o logo oficial da Creditas
-
-# Dados para teste
-
-Para acessar todas as areas do sistema o candidato deve registrar-se (visualizar a User Story 2 - Tela de Inscrever-se).
-
-### Link do sistema:
-https://rocky-retreat-10076.herokuapp.com/
-
-### Reporte dos Bugs
-O candidato deve enviar o documento com o resporte dos bugs para os emails david.melo@creditas.com.br e karoline.leite@creditas.com.br, lembrando que fica a critério do candidato a forma de registro dos bugs.
